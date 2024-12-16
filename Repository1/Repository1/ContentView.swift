@@ -3,7 +3,10 @@
 //  Repository1
 //
 //  Created by Andrei Deshin on 16.12.24.
-//
+// dsbsbdfsngn
+//dcksdvdnskkdf
+//sanjsdvnhdsvdfvkndf
+//dshjvsahvja
 
 import SwiftUI
 
